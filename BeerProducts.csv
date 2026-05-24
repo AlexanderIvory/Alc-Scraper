@@ -1,0 +1,764 @@
+pid,brand,product,quantity,price,standard drinks,standard drinks estimate,price per sd
+901988,Little Creatures,Rogers Ale Bottle 330ml,24.0,73.99,24.0,23759.29,3.08
+901988,Little Creatures,Rogers Ale Bottle 330ml,6.0,24.49,6.0,5939.82,4.08
+598591,CBCo Brewing,Pale Ale Can 375mL,4.0,17.0,4.8,5.21,3.54
+598591,CBCo Brewing,Pale Ale Can 375mL,16.0,63.99,19.2,20.84,3.33
+878524,Shepherd Neame,Double Stout 500mL,1,7.99,16.8,2.05,0.48
+878524,Shepherd Neame,Double Stout 500mL,8.0,53.99,134.4,16.42,0.4
+89983,Boatrocker,Stout Cans 375mL,4.0,21.99,28.8,7.22,0.76
+89983,Boatrocker,Stout Cans 375mL,24.0,103.99,172.8,43.34,0.6
+6038271,Eichbaum,Premium Pilsner Cans 500mL,6.0,22.9,11.4,11.37,2.01
+6038271,Eichbaum,Premium Pilsner Cans 500mL,24.0,64.99,45.6,45.47,1.43
+310996,Balter,Cerveza Bottles 355mL,6.0,22.99,6.6,6.73,3.48
+310996,Balter,Cerveza Bottles 355mL,24.0,59.95,26.4,26.9,2.27
+460726,Tun,Gold Mid Cans 330mL,30.0,43.9,27.0,25.79,1.63
+25500,Coopers,Best Extra Stout Longneck 750mL,1,10.99,3.7,3.73,2.97
+25500,Coopers,Best Extra Stout Longneck 750mL,12.0,82.99,44.4,44.76,1.87
+773033,Adnams,Ghost Ship Pale Ale Cans 440mL,4.0,15.0,6.4,6.25,2.34
+773033,Adnams,Ghost Ship Pale Ale Cans 440mL,24.0,79.99,38.4,37.51,2.08
+13470,Carlton Draught,Lager Cans 375mL,6.0,17.95,8.4,8.17,2.14
+13470,Carlton Draught,Lager Cans 375mL,24.0,54.95,33.6,32.68,1.64
+105097,John Boston,Crisp Lager Bottle 330mL,6.0,16.0,6.6,6.57,2.42
+105097,John Boston,Crisp Lager Bottle 330mL,24.0,55.99,26.4,26.26,2.12
+6004342,James Squire,Lower Sugar Alcoholic Ginger Beer with Lemon Cans 330mL,6.0,26.0,6.0,6.25,4.33
+6004342,James Squire,Lower Sugar Alcoholic Ginger Beer with Lemon Cans 330mL,24.0,91.99,24.0,25.01,3.83
+717160,Pabst Blue Ribbon,Premium Lager Cans 473mL,6.0,24.99,10.8,10.53,2.31
+717160,Pabst Blue Ribbon,Premium Lager Cans 473mL,24.0,73.0,43.2,42.12,1.69
+248225,Old Speckled Hen,English Pale Ale Bottles 500mL,1,7.99,1.9,1.89,4.21
+248225,Old Speckled Hen,English Pale Ale Bottles 500mL,12.0,53.99,22.8,22.74,2.37
+189952,Brewdog,Punk XPA Carbon Negative Cans 375mL,4.0,21.99,6.0,6.16,3.66
+189952,Brewdog,Punk XPA Carbon Negative Cans 375mL,16.0,65.99,24.0,24.63,2.75
+110592,Moon Dog,Lager Can 330mL,24.0,76.99,31.2,28136.0,2.47
+110592,Moon Dog,Lager Can 330mL,6.0,25.99,7.8,7034.0,3.33
+139443,Colossal Brewing,Hopmosphere West Coast IPA Cans 375mL,4.0,25.99,8.4,8.29,3.09
+139443,Colossal Brewing,Hopmosphere West Coast IPA Cans 375mL,16.0,71.99,33.6,33.16,2.14
+6003996,Pirate Life,South Coast Crisp Lager Cans 375mL,6.0,21.99,7.2,7.11,3.05
+6003996,Pirate Life,South Coast Crisp Lager Cans 375mL,24.0,54.0,28.8,28.42,1.88
+319531,Dainton,Flamingo Sour Cans 375mL,4.0,16.99,4.8,4.97,3.54
+319531,Dainton,Flamingo Sour Cans 375mL,16.0,57.99,19.2,19.89,3.02
+15307,Bintang,Pilsener Bottles 330mL,24.0,59.0,31.2,29386.49,1.89
+15307,Bintang,Pilsener Bottles 330mL,6.0,22.49,7.8,7346.62,2.88
+661660,Kaiju,Krush Tropical Pale Ale Cans 375mL,6.0,27.99,8.4,8.35,3.33
+661660,Kaiju,Krush Tropical Pale Ale Cans 375mL,24.0,85.99,33.6,33.39,2.56
+671939,Rugged Thumb,Sugar Free Ginger Beer Bottles 500mL,1,8.99,1.6,1.58,5.62
+671939,Rugged Thumb,Sugar Free Ginger Beer Bottles 500mL,12.0,80.99,19.2,18.95,4.22
+768242,Carlton Dry,Bottles 700mL,3.0,21.99,7.5,7.46,2.93
+768242,Carlton Dry,Bottles 700mL,12.0,84.99,30.0,29.84,2.83
+910435,XXXX,Ultra Zero Carb Bottles 330mL,6.0,18.0,6.0,5.94,3.0
+910435,XXXX,Ultra Zero Carb Bottles 330mL,24.0,53.99,24.0,23.76,2.25
+56169,Beck's,Beer 330mL,24.0,53.9,24.0,25009.78,2.25
+56169,Beck's,Beer 330mL,6.0,22.99,6.0,6252.44,3.83
+20993,Boatrocker,Miss Pinky Raspberry Sour Ale Cans 375mL,4.0,19.99,4.0,4.03,5.0
+20993,Boatrocker,Miss Pinky Raspberry Sour Ale Cans 375mL,24.0,92.99,24.0,24.16,3.87
+712654,Hook Norton,Twelve Days 500mL,1,7.99,2.2,2170.99,3.63
+712654,Hook Norton,Twelve Days 500mL,12.0,63.99,26.4,26051.85,2.42
+6027312,Brick Lane,Hi-Fi Zero Carb Pale Ale Cans 355mL,6.0,18.0,7.2,7.06,2.5
+6027312,Brick Lane,Hi-Fi Zero Carb Pale Ale Cans 355mL,24.0,62.99,28.8,28.25,2.19
+215860,Nam Nam Alley,Lager Can 500mL,4.0,14.0,7.2,7.11,1.94
+215860,Nam Nam Alley,Lager Can 500mL,16.0,47.99,28.8,28.42,1.67
+910436,Byron Bay Brewery,Ultra Zero Carb Bottles 330mL,6.0,22.99,5.4,5.47,4.26
+910436,Byron Bay Brewery,Ultra Zero Carb Bottles 330mL,24.0,60.0,21.6,21.88,2.78
+692632,Stomping Ground,Laneway Lager Cans 355mL,6.0,21.0,9.0,7.9,2.33
+692632,Stomping Ground,Laneway Lager Cans 355mL,18.0,51.99,27.0,23.71,1.93
+800717,Foster's,Classic Lager Cans 375mL,6.0,21.99,7.2,7.11,3.05
+800717,Foster's,Classic Lager Cans 375mL,24.0,60.99,28.8,28.42,2.12
+148316,Hawkers Beer,Hazy Pale Cans 375mL,4.0,22.99,5.6,5.45,4.11
+148316,Hawkers Beer,Hazy Pale Cans 375mL,16.0,65.99,22.4,21.79,2.95
+47988,Heineken,Lager Bottles 330mL,6.0,24.49,7.8,7.82,3.14
+47988,Heineken,Lager Bottles 330mL,24.0,51.0,31.2,31.26,1.63
+6049940,James Squire,Ginger Beer 10 Pack Cans 330mL,10.0,44.99,10.0,10.42,4.5
+6049940,James Squire,Ginger Beer 10 Pack Cans 330mL,30.0,109.99,30.0,31.26,3.67
+905572,Coopers,Mild Ale 3.5% Bottles 375mL,6.0,17.0,6.0,6.22,2.83
+905572,Coopers,Mild Ale 3.5% Bottles 375mL,24.0,56.99,24.0,24.87,2.37
+84568,Zytho Brewing,Tropical Haze Cans 375mL,6.0,26.99,9.0,8.88,3.0
+84568,Zytho Brewing,Tropical Haze Cans 375mL,24.0,75.0,36.0,35.53,2.08
+253853,Gage Roads,Hazy As Pale Ale Cans 330mL,6.0,27.49,7.8,7.82,3.52
+253853,Gage Roads,Hazy As Pale Ale Cans 330mL,24.0,79.99,31.2,31.26,2.56
+470949,Young Henrys,Classic Premium Lager Can 375mL,6.0,24.99,7.2,7.46,3.47
+470949,Young Henrys,Classic Premium Lager Can 375mL,24.0,62.0,28.8,29.84,2.15
+143651,Bridge Road Brewers,Beechworth Pale Ale Cans 355mL,4.0,22.99,5.2,5.38,4.42
+143651,Bridge Road Brewers,Beechworth Pale Ale Cans 355mL,16.0,68.99,20.8,21.52,3.32
+118667,Little Fat Lamb,Ginger 375mL,24.0,77.99,57.6,56840.4,1.35
+118667,Little Fat Lamb,Ginger 375mL,4.0,15.99,9.6,9473.4,1.67
+717137,Hollandia,Beer Cans 500mL,4.0,14.0,7.6,7.42,1.84
+717137,Hollandia,Beer Cans 500mL,24.0,71.99,45.6,44.52,1.58
+363586,Stone & Wood,Pacific Ale Bottles 330mL,6.0,25.95,6.6,6.88,3.93
+363586,Stone & Wood,Pacific Ale Bottles 330mL,24.0,82.9,26.4,27.51,3.14
+8867,Jetty Road Brewery,Pale Ale Cans 375mL,6.0,20.0,9.0,8.53,2.22
+8867,Jetty Road Brewery,Pale Ale Cans 375mL,24.0,73.99,36.0,34.1,2.06
+202894,Better Beer,Ginger Beer Cans 355mL,6.0,26.49,6.6,6.73,4.01
+202894,Better Beer,Ginger Beer Cans 355mL,24.0,69.0,26.4,26.9,2.61
+962206,Carlton Dry,Mid 3.5% Bottles 330mL,6.0,19.99,5.4,5.47,3.7
+962206,Carlton Dry,Mid 3.5% Bottles 330mL,24.0,46.0,21.6,21.88,2.13
+21904,Hawke's Brewing Co.,Lager Cans 375mL,24.0,59.99,28.8,29841.21,2.08
+21904,Hawke's Brewing Co.,Lager Cans 375mL,6.0,19.99,7.2,7460.3,2.78
+137935,Zytho Brewing,Velvet Luxe Stout Cans 375mL,4.0,17.0,7.2,7.11,2.36
+137935,Zytho Brewing,Velvet Luxe Stout Cans 375mL,24.0,81.99,43.2,42.63,1.9
+171853,Little Creatures,Hazy IPA Cans Wrap,4.0,27.99,7.2,330.94,3.89
+171853,Little Creatures,Hazy IPA Cans Wrap,16.0,78.99,28.8,1323.75,2.74
+460722,Tun,Green Bitter Cans 330mL,30.0,53.9,39.0,38.3,1.38
+225756,Peroni Nastro Azzurro,Bottles 330mL,6.0,19.95,7.8,7.82,2.56
+225756,Peroni Nastro Azzurro,Bottles 330mL,24.0,60.99,31.2,31.26,1.95
+24284,Carlton Draught,Longnecks 750mL,12.0,73.99,32.4,32683.23,2.28
+24284,Carlton Draught,Longnecks 750mL,3.0,21.99,8.1,8170.81,2.71
+205989,Blackman's Brewery,Juicy Banger IPL Cans 375mL,4.0,24.99,6.8,6.87,3.67
+205989,Blackman's Brewery,Juicy Banger IPL Cans 375mL,16.0,68.0,27.2,27.47,2.5
+155358,Balter,Eazy Hazy Cans 375mL,4.0,20.99,4.8,4.74,4.37
+155358,Balter,Eazy Hazy Cans 375mL,16.0,53.0,19.2,18.95,2.76
+310870,James Squire,Lower Sugar Ginger Beer Cans 330mL,6.0,30.49,6.0,6.25,5.08
+310870,James Squire,Lower Sugar Ginger Beer Cans 330mL,24.0,89.9,24.0,25.01,3.75
+326253,Burleigh Brewing Co.,Big Head No Carb Beer Bottles 330mL,6.0,25.99,6.54,6.57,3.97
+326253,Burleigh Brewing Co.,Big Head No Carb Beer Bottles 330mL,24.0,76.99,26.16,26.26,2.94
+75023,Coopers,Sparkling Ale Bottles 375mL,6.0,22.0,10.2,10.3,2.16
+75023,Coopers,Sparkling Ale Bottles 375mL,24.0,70.99,40.8,41.21,1.74
+695112,3 Ravens,Juicy IPA Cans 375mL,4.0,21.99,7.2,7.11,3.05
+695112,3 Ravens,Juicy IPA Cans 375mL,24.0,103.99,43.2,42.63,2.41
+11055,Red Hill,Two Bays Pale Cans 355mL,4.0,17.0,4.4,5.04,3.86
+11055,Red Hill,Two Bays Pale Cans 355mL,24.0,84.99,26.4,30.27,3.22
+11911,Stomping Ground,Passionfruit Smash Sour Beer Cans 355mL,4.0,20.99,4.8,4.71,4.37
+11911,Stomping Ground,Passionfruit Smash Sour Beer Cans 355mL,16.0,61.99,19.2,18.83,3.23
+23097,Carlsberg,Green Lager Bottles 330mL,6.0,23.99,7.2,180.07,3.33
+23097,Carlsberg,Green Lager Bottles 330mL,24.0,52.0,28.8,720.28,1.81
+318544,Hop Nation,Melbourne Fog Hazy Pale Cans 355mL,4.0,18.9,5.2,5.38,3.63
+318544,Hop Nation,Melbourne Fog Hazy Pale Cans 355mL,16.0,55.8,20.8,21.52,2.68
+594791,Coopers,Light Bottles 355mL,6.0,22.49,4.8,4.88,4.69
+594791,Coopers,Light Bottles 355mL,24.0,53.99,19.2,19.51,2.81
+100281,Bodriggy Brewing Co,Cosmic Microwave Hazy IPA Cans 355mL,4.0,20.49,4.0,3.92,5.12
+100281,Bodriggy Brewing Co,Cosmic Microwave Hazy IPA Cans 355mL,24.0,99.99,24.0,23.54,4.17
+460724,Tun,Red Draught Cans 330mL,30.0,46.9,30.0,31.26,1.56
+817186,Hahn,SuperDry Gluten Free 330mL Bottle,6.0,19.95,6.6,6.57,3.02
+817186,Hahn,SuperDry Gluten Free 330mL Bottle,24.0,59.95,26.4,26.26,2.27
+233839,Young Henrys,Hazy Pale Ale 375mL,4.0,18.0,6.0,6.16,3.0
+233839,Young Henrys,Hazy Pale Ale 375mL,16.0,63.99,24.0,24.63,2.67
+809797,Carlton Dry,Lager Bottles 330mL,6.0,19.95,7.2,7.03,2.77
+809797,Carlton Dry,Lager Bottles 330mL,24.0,54.95,28.8,28.14,1.91
+94478,Balter,Hazy IPA Cans 375mL,4.0,27.99,7.2,7.11,3.89
+94478,Balter,Hazy IPA Cans 375mL,16.0,73.0,28.8,28.42,2.53
+908872,Erdinger,Kristall Weißbier Bottles 500mL,12.0,82.99,25.2,25104.51,3.29
+908872,Erdinger,Kristall Weißbier Bottles 500mL,1,10.99,2.1,2092.04,5.23
+597433,Young Henrys,Newtowner Australian Pale Ale Cans 375mL,6.0,21.0,8.4,8.53,2.5
+597433,Young Henrys,Newtowner Australian Pale Ale Cans 375mL,24.0,72.49,33.6,34.1,2.16
+105701,Tun,Bitter Bottle 660ml,1,6.99,2.5,2.55,2.8
+105701,Tun,Bitter Bottle 660ml,12.0,53.99,30.0,30.64,1.8
+204819,Pirate Life Brewing,California Pale Ale 355mL Cans,16.0,63.99,25.6,26007.64,2.5
+204819,Pirate Life Brewing,California Pale Ale 355mL Cans,4.0,17.0,6.4,6501.91,2.66
+312095,Hop Nation,The Heart Pale Ale Cans 355mL,4.0,20.99,5.2,5.16,4.04
+312095,Hop Nation,The Heart Pale Ale Cans 355mL,16.0,61.99,20.8,20.63,2.98
+198130,Better Beer,Zero Carb Lager Bottles 330mL,6.0,18.95,6.6,6.57,2.87
+198130,Better Beer,Zero Carb Lager Bottles 330mL,24.0,62.99,26.4,26.26,2.39
+100084,Bodriggy Brewing Co,Speccy 355ml,4.0,15.99,4.0,3.92,4.0
+100084,Bodriggy Brewing Co,Speccy 355ml,24.0,69.99,24.0,23.54,2.92
+683171,Shepherd Neame,1698 Strong Ale 500mL,1,7.99,2.6,2.57,3.07
+683171,Shepherd Neame,1698 Strong Ale 500mL,8.0,53.99,20.8,20.53,2.6
+60139,Zytho Brewing,IPA Cans 375mL,6.0,26.99,9.6,9.59,2.81
+60139,Zytho Brewing,IPA Cans 375mL,24.0,75.0,38.4,38.37,1.95
+102408,Braeside Brewing Co.,Lead Head Lager Cans 355mL,24.0,80.99,31.2,32285.35,2.6
+102408,Braeside Brewing Co.,Lead Head Lager Cans 355mL,6.0,24.99,7.8,8071.34,3.2
+6005426,Birra Moretti,Lager Bottles 330mL,6.0,22.99,7.2,7.19,3.19
+6005426,Birra Moretti,Lager Bottles 330mL,24.0,62.0,28.8,28.76,2.15
+902895,Erdinger,Weissbrau Weißbier Bottles 500mL,1,11.99,2.1,2092.04,5.71
+902895,Erdinger,Weissbrau Weißbier Bottles 500mL,12.0,82.99,25.2,25104.51,3.29
+38175,Victoria Bitter,Lager Bottles 375mL,6.0,18.95,8.4,8.7,2.26
+38175,Victoria Bitter,Lager Bottles 375mL,24.0,54.95,33.6,34.81,1.64
+458115,CBCo Brewing,Goldy Lager Can 375mL,6.0,23.49,7.2,7.11,3.26
+458115,CBCo Brewing,Goldy Lager Can 375mL,24.0,70.99,28.8,28.42,2.46
+904074,Weihenstephaner,Tradition Bayrisch Dunkel Bottles 500mL,1,8.99,2.0,2052.57,4.5
+904074,Weihenstephaner,Tradition Bayrisch Dunkel Bottles 500mL,12.0,74.99,24.0,24630.84,3.12
+501502,Shepherd Neame,Spitfire Golden Ale 500mL,1,7.99,1.7,1697.32,4.7
+501502,Shepherd Neame,Spitfire Golden Ale 500mL,8.0,53.99,13.6,13578.54,3.97
+904073,Weihenstephaner,Pilsner Bottle 500mL,1,8.99,2.0,2013.1,4.5
+904073,Weihenstephaner,Pilsner Bottle 500mL,12.0,74.99,24.0,24157.17,3.12
+217037,Great Northern Brewing Co.,Original Lager Cans 375mL,1,4.09,1.2,1.24,3.41
+217037,Great Northern Brewing Co.,Original Lager Cans 375mL,30.0,62.95,36.0,37.3,1.75
+708301,Matso's,Ginger Beer Bottles 330mL,6.0,30.99,5.4,5.47,5.74
+708301,Matso's,Ginger Beer Bottles 330mL,24.0,89.0,21.6,21.88,4.12
+466271,Hop Nation,Karma Oatmeal Stout Can 355mL,4.0,21.99,5.6,5.61,3.93
+466271,Hop Nation,Karma Oatmeal Stout Can 355mL,16.0,66.99,22.4,22.42,2.99
+134094,Sapporo,Premium Lager Cans 650mL,1,9.89,31.2,30.79,0.32
+134094,Sapporo,Premium Lager Cans 650mL,12.0,78.99,374.4,369.46,0.21
+813344,Mountain Goat,Very Enjoyable Beer Cans 375mL,6.0,21.99,7.2,7.46,3.05
+813344,Mountain Goat,Very Enjoyable Beer Cans 375mL,24.0,57.9,28.8,29.84,2.01
+914544,Tetley's,Original Bitter Cans 440mL,4.0,20.99,4.72,4.72,4.45
+914544,Tetley's,Original Bitter Cans 440mL,24.0,89.99,28.32,28.34,3.18
+6003995,Mountain Goat,Low Carb Lager Can 375mL,6.0,21.99,6.6,7.11,3.33
+6003995,Mountain Goat,Low Carb Lager Can 375mL,24.0,54.0,26.4,28.42,2.05
+106236,Two Bays Brewing Co.,Gluten Free IPA Can 375mL,4.0,31.49,7.2,7.11,4.37
+106236,Two Bays Brewing Co.,Gluten Free IPA Can 375mL,16.0,102.99,28.8,28.42,3.58
+440975,Kopparberg,Ginger Can 375mL,6.0,22.99,15.0,14.74,1.53
+440975,Kopparberg,Ginger Can 375mL,24.0,52.0,60.0,58.97,0.87
+299034,Colossal Brewing,Hextra Terrestrial Hazy XPA Can 375mL,4.0,22.99,6.0,5.92,3.83
+299034,Colossal Brewing,Hextra Terrestrial Hazy XPA Can 375mL,16.0,64.99,24.0,23.68,2.71
+178142,Old Fart,Ale 500mL,12.0,97.99,24.0,23683.5,4.08
+178142,Old Fart,Ale 500mL,1,10.99,2.0,1973.62,5.5
+446855,Great Northern Brewing Co.,Super Crisp 3.5% Lager 30 Block Cans 375mL,30.0,54.95,30.0,31.08,1.83
+904993,Kingfisher,Lager 330mL,24.0,62.99,31.2,31262.22,2.02
+904993,Kingfisher,Lager 330mL,6.0,21.0,7.8,7815.56,2.69
+460725,Tun,Blue Light Cans 330mL,30.0,39.9,21.0,21.1,1.9
+114600,Mornington Peninsula Brewery,Pale Ale Can 375mL,24.0,74.99,33.6,33393.74,2.23
+114600,Mornington Peninsula Brewery,Pale Ale Can 375mL,6.0,23.49,8.4,8348.43,2.8
+75482,Coopers,Original Pale Ale Longneck 750mL,1,9.69,2.7,2.66,3.59
+75482,Coopers,Original Pale Ale Longneck 750mL,12.0,70.99,32.4,31.97,2.19
+790813,John Boston,The Guardhouse Golden Ale 330mL,6.0,16.0,6.54,6.57,2.45
+790813,John Boston,The Guardhouse Golden Ale 330mL,24.0,55.99,26.16,26.26,2.14
+912029,Mythos,Hellenic Lager 330mL,24.0,75.99,28.8,31262.22,2.64
+912029,Mythos,Hellenic Lager 330mL,6.0,29.99,7.2,7815.56,4.17
+916700,Red Hill Brewery,Scotch Ale 330mL,24.0,99.99,38.4,36264.18,2.6
+916700,Red Hill Brewery,Scotch Ale 330mL,4.0,21.99,6.4,6044.03,3.44
+97273,James Squire,Ginger Beer Cans 330mL,6.0,29.99,6.0,6.25,5.0
+97273,James Squire,Ginger Beer Cans 330mL,24.0,89.9,24.0,25.01,3.75
+6004344,Little Creatures,Juicy XPA Cans 375mL,4.0,20.99,5.6,5.45,3.75
+6004344,Little Creatures,Juicy XPA Cans 375mL,16.0,60.99,22.4,21.79,2.72
+544772,Brookvale Union,Ginger Beer Cans 330mL,6.0,29.95,6.0,6.25,4.99
+544772,Brookvale Union,Ginger Beer Cans 330mL,24.0,91.9,24.0,25.01,3.83
+904076,Weihenstephaner,Hefe Weissbier Bottles 500mL,1,8.99,2.1,2.13,4.28
+904076,Weihenstephaner,Hefe Weissbier Bottles 500mL,12.0,74.99,25.2,25.58,2.98
+768302,Carlton Dry,Lager Cans 375mL,6.0,20.95,7.8,7.99,2.69
+768302,Carlton Dry,Lager Cans 375mL,24.0,54.95,31.2,31.97,1.76
+6027295,Stone & Wood,Radler Citrus Cans 330mL,4.0,18.99,4.0,4.17,4.75
+6027295,Stone & Wood,Radler Citrus Cans 330mL,16.0,50.0,16.0,16.67,3.12
+662708,CBCo Brewing,IPA Cans 375mL,4.0,23.79,7.6,7.7,3.13
+662708,CBCo Brewing,IPA Cans 375mL,16.0,71.99,30.4,30.79,2.37
+911693,Stomping Ground,Big Sky Hazy Pale Cans 355mL,4.0,19.99,4.4,4.82,4.54
+911693,Stomping Ground,Big Sky Hazy Pale Cans 355mL,16.0,56.99,17.6,19.28,3.24
+710782,La Trappe,Quadrupel 330mL,24.0,175.99,62.4,62524.44,2.82
+710782,La Trappe,Quadrupel 330mL,4.0,30.99,10.4,10420.74,2.98
+38281,Victoria Bitter,Cans 375mL,6.0,22.49,8.7,8.7,2.59
+38281,Victoria Bitter,Cans 375mL,24.0,54.95,34.8,34.81,1.58
+291177,Shepherd Neame,Bishop's Finger Ale Bottle 500mL,1,7.99,2.1,2.05,3.8
+291177,Shepherd Neame,Bishop's Finger Ale Bottle 500mL,12.0,56.99,25.2,24.63,2.26
+282241,Ginger Kid,Ginger Beer Extra Strong Cans 330mL,4.0,17.99,8.4,8.34,2.14
+282241,Ginger Kid,Ginger Beer Extra Strong Cans 330mL,24.0,69.0,50.4,50.02,1.37
+43580,Coopers,Sparkling Ale Longneck 750mL,1,9.89,3.4,3.43,2.91
+43580,Coopers,Sparkling Ale Longneck 750mL,12.0,76.99,40.8,41.21,1.89
+24773,Sierra Nevada,Pale Ale Draught Style Can 355mL,24.0,110.99,33.6,33630.57,3.3
+24773,Sierra Nevada,Pale Ale Draught Style Can 355mL,4.0,24.99,5.6,5605.1,4.46
+6003999,XXXX,Ultra Zero Carb Cans 375mL,6.0,19.99,6.6,6.75,3.03
+6003999,XXXX,Ultra Zero Carb Cans 375mL,24.0,50.0,26.4,27.0,1.89
+464778,Pirate Life,Hazy Xpa Can 355mL,4.0,15.0,5.6,5.61,2.68
+464778,Pirate Life,Hazy Xpa Can 355mL,16.0,55.99,22.4,22.42,2.5
+6058338,Mountain Culture Beer Co.,X Bentspoke Full Suspension IPA Cans 355mL,4.0,28.99,8.0,7.29,3.62
+6058338,Mountain Culture Beer Co.,X Bentspoke Full Suspension IPA Cans 355mL,16.0,89.99,32.0,29.15,2.81
+287005,Brookvale Union,Ginger Beer 6% Can 330mL,4.0,30.99,6.4,6.25,4.84
+287005,Brookvale Union,Ginger Beer 6% Can 330mL,24.0,139.99,38.4,37.51,3.65
+327917,4 Pines,Pacific Ale Cans 375mL,6.0,18.0,6.24,6.22,2.88
+327917,4 Pines,Pacific Ale Cans 375mL,18.0,51.99,18.72,18.65,2.78
+87924,Stone & Wood,Pacific Ale Cans 375mL,4.0,22.99,5.2,5.21,4.42
+87924,Stone & Wood,Pacific Ale Cans 375mL,16.0,65.9,20.8,20.84,3.17
+910762,Coors,Lager Cans 355mL,6.0,19.0,7.2,7.06,2.64
+910762,Coors,Lager Cans 355mL,24.0,59.99,28.8,28.25,2.08
+64866,Tooheys,New Bottles 375mL,6.0,21.49,8.4,8.17,2.56
+64866,Tooheys,New Bottles 375mL,24.0,54.99,33.6,32.68,1.64
+182464,Better Beer,Zero Carb Lager Can 355mL,6.0,18.95,7.2,7.06,2.63
+182464,Better Beer,Zero Carb Lager Can 355mL,24.0,62.99,28.8,28.25,2.19
+910438,Kilkenny,Irish Ale Cans 470mL,6.0,31.99,9.54,9.57,3.35
+910438,Kilkenny,Irish Ale Cans 470mL,24.0,98.99,38.16,38.29,2.59
+318495,Dainton,Equalizer Pale Ale Cans 375mL,4.0,19.99,5.2,5.33,3.84
+318495,Dainton,Equalizer Pale Ale Cans 375mL,16.0,59.99,20.8,21.32,2.88
+270090,Hahn,Ultra Zero Carb Bottles 330mL,6.0,22.99,6.6,6.57,3.48
+270090,Hahn,Ultra Zero Carb Bottles 330mL,24.0,56.95,26.4,26.26,2.16
+71943,St Andrews Beach Brewery,The Apprentice Session Ale Cans 375mL,4.0,17.99,4.0,4.14,4.5
+71943,St Andrews Beach Brewery,The Apprentice Session Ale Cans 375mL,16.0,54.99,16.0,16.58,3.44
+911712,Heineken,Silver Bottles  330mL,6.0,24.99,6.0,6.25,4.17
+911712,Heineken,Silver Bottles  330mL,24.0,56.99,24.0,25.01,2.37
+38033,Victoria Bitter,750mL,3.0,21.99,8.7,8.7,2.53
+38033,Victoria Bitter,750mL,12.0,74.99,34.8,34.81,2.15
+6003536,Amplys,Ginger Beer Cans 330mL,4.0,19.0,7.2,7.19,2.64
+6003536,Amplys,Ginger Beer Cans 330mL,24.0,124.99,43.2,43.14,2.89
+253983,Jetty Road Brewery,Lager Can 375mL,24.0,67.99,28.8,29841.21,2.36
+253983,Jetty Road Brewery,Lager Can 375mL,6.0,22.49,7.2,7460.3,3.12
+880430,Feral Brewing Co.,Biggie Juice East Coast IPA 375mL,4.0,28.99,7.2,7.11,4.03
+880430,Feral Brewing Co.,Biggie Juice East Coast IPA 375mL,16.0,83.99,28.8,28.42,2.92
+6016656,Desperados,Mojito Beer Bottles 330mL,6.0,20.0,9.0,9.22,2.22
+6016656,Desperados,Mojito Beer Bottles 330mL,24.0,91.99,36.0,36.89,2.56
+6027307,Tennent's,Lager Can 500mL,4.0,23.99,8.0,7.89,3.0
+6027307,Tennent's,Lager Can 500mL,24.0,104.99,48.0,47.37,2.19
+855559,Coors,Lager Bottles 330mL,6.0,23.99,6.6,6.57,3.63
+855559,Coors,Lager Bottles 330mL,24.0,58.99,26.4,26.26,2.23
+197101,Brookvale Union,Ginger Beer Cans 10 Pack 330mL,10.0,44.95,10.0,10.42,4.5
+197101,Brookvale Union,Ginger Beer Cans 10 Pack 330mL,30.0,134.85,30.0,31.26,4.5
+770382,Mountain Goat,Summer Ale Cans 375mL,6.0,19.0,8.4,8.35,2.26
+770382,Mountain Goat,Summer Ale Cans 375mL,24.0,72.99,33.6,33.39,2.17
+598473,CBCo Brewing,Draught Kolsch Ale Can 375mL,24.0,77.99,33.6,34104.24,2.32
+598473,CBCo Brewing,Draught Kolsch Ale Can 375mL,6.0,22.0,8.4,8526.06,2.62
+911584,Two Bays Brewing Co.,Gluten Free Japanese Lager Cans 375mL,4.0,27.49,4.8,4.97,5.73
+911584,Two Bays Brewing Co.,Gluten Free Japanese Lager Cans 375mL,16.0,81.99,19.2,19.89,4.27
+277554,4 Pines,Japanese Lager Cans 375mL,6.0,19.0,7.2,7.99,2.64
+277554,4 Pines,Japanese Lager Cans 375mL,18.0,54.99,21.6,23.98,2.55
+367804,Hollandia,Lager 330mL,6.0,19.99,7.2,7.35,2.78
+367804,Hollandia,Lager 330mL,24.0,48.0,28.8,29.39,1.67
+6027249,Mountain Culture,Juice Trip Cans 355mL,4.0,26.0,8.0,7.85,3.25
+6027249,Mountain Culture,Juice Trip Cans 355mL,16.0,84.99,32.0,31.39,2.66
+903781,First Hand Beer,Outback Lager Cans 375mL,6.0,21.59,7.2,7.46,3.0
+903781,First Hand Beer,Outback Lager Cans 375mL,24.0,66.99,28.8,29.84,2.33
+917502,Shepherd Neame,Spitfire Kentish Ale 500mL,1,7.99,1.7,1.66,4.7
+917502,Shepherd Neame,Spitfire Kentish Ale 500mL,12.0,57.99,20.4,19.89,2.84
+885481,Victoria Malaga,Malaga Lager Cans 330mL,6.0,19.79,7.2,7.5,2.75
+885481,Victoria Malaga,Malaga Lager Cans 330mL,24.0,60.99,28.8,30.01,2.12
+6027278,Burleigh Brewing Co.,X Budvar Czech Mates Lager Bottle 330mL,6.0,27.99,7.2,7.03,3.89
+6027278,Burleigh Brewing Co.,X Budvar Czech Mates Lager Bottle 330mL,24.0,81.99,28.8,28.14,2.85
+159725,Pure Blonde,Premium Mid Ultra Low Carb Lager Bottles 330mL,24.0,57.99,19.2,18757.33,3.02
+159725,Pure Blonde,Premium Mid Ultra Low Carb Lager Bottles 330mL,6.0,17.0,4.8,4689.33,3.54
+335912,Big Things,Ginger Beer & Pineapple Cans 330mL,6.0,24.0,6.0,6.25,4.0
+335912,Big Things,Ginger Beer & Pineapple Cans 330mL,24.0,92.99,24.0,25.01,3.87
+6048288,Stone & Wood,Peach Radler Cans 330mL,4.0,18.99,4.0,4.17,4.75
+6048288,Stone & Wood,Peach Radler Cans 330mL,16.0,50.0,16.0,16.67,3.12
+847882,Feral Brewing Co.,Hop Hog Pale Ale Cans 375mL,4.0,20.0,6.8,6.87,2.94
+847882,Feral Brewing Co.,Hop Hog Pale Ale Cans 375mL,16.0,78.99,27.2,27.47,2.9
+6027222,Pirate Life,Bright IPA Can 355mL,4.0,22.99,6.8,6.73,3.38
+6027222,Pirate Life,Bright IPA Can 355mL,16.0,64.99,27.2,26.9,2.39
+804073,Coopers,Dry 4.2% Lager Cans 375mL,6.0,21.99,7.2,7.46,3.05
+804073,Coopers,Dry 4.2% Lager Cans 375mL,24.0,52.0,28.8,29.84,1.81
+59696,Coopers,Sparkling Ale Cans 375mL,6.0,22.0,10.2,10.3,2.16
+59696,Coopers,Sparkling Ale Cans 375mL,24.0,74.99,40.8,41.21,1.84
+910514,Guinness,Draught Cans 470mL,6.0,31.99,9.6,9.35,3.33
+910514,Guinness,Draught Cans 470mL,24.0,91.9,38.4,37.4,2.39
+251339,Two Bays Brewing Co.,GFB Gluten Free Draught Can 375mL,6.0,26.99,7.8,7.46,3.46
+251339,Two Bays Brewing Co.,GFB Gluten Free Draught Can 375mL,24.0,80.99,31.2,29.84,2.6
+411193,Monsuta,Okinawa Dark Cans 350mL,6.0,21.99,8.4,8.29,2.62
+411193,Monsuta,Okinawa Dark Cans 350mL,24.0,56.0,33.6,33.16,1.67
+908599,Lucky,Buddha Beer Bottles 330mL,6.0,19.0,7.2,7.5,2.64
+908599,Lucky,Buddha Beer Bottles 330mL,12.0,40.99,14.4,15.01,2.85
+62785,Carlton,Mid Cans 375mL,1,4.09,0.9,0.89,4.54
+62785,Carlton,Mid Cans 375mL,30.0,60.99,27.0,26.64,2.26
+84736,Victoria Bitter,30 Block Cans 375mL,30.0,68.95,43.5,43.52,1.59
+326035,Tsingtao,Premium Lager Bottles 640mL,1,7.09,2.3,2.27,3.08
+326035,Tsingtao,Premium Lager Bottles 640mL,12.0,63.99,27.6,27.28,2.32
+901651,Little Creatures,Pale Ale Bottles 330mL,6.0,24.95,8.1,8.13,3.08
+901651,Little Creatures,Pale Ale Bottles 330mL,24.0,70.95,32.4,32.51,2.19
+556382,BentSpoke Brewing Co.,Crankshaft IPA Cans 375mL,4.0,22.99,6.8,6.87,3.38
+556382,BentSpoke Brewing Co.,Crankshaft IPA Cans 375mL,16.0,67.99,27.2,27.47,2.5
+6006107,3 Ravens,Ruckers Hill Pale Ale Cans 375mL,4.0,17.99,4.96,4.97,3.63
+6006107,3 Ravens,Ruckers Hill Pale Ale Cans 375mL,24.0,74.99,29.76,29.84,2.52
+387330,Great Northern Brewing Co.,Ginger Beer Cans 375mL,6.0,34.99,6.0,7.11,5.83
+387330,Great Northern Brewing Co.,Ginger Beer Cans 375mL,24.0,112.99,24.0,28.42,4.71
+256271,4 Pines,Pale Ale Can 375mL,6.0,18.0,9.0,9.13,2.0
+256271,4 Pines,Pale Ale Can 375mL,18.0,61.99,27.0,27.39,2.3
+226439,Brookvale Union,Ginger Beer Low Sugar Cans 330mL,6.0,27.0,6.0,6.25,4.5
+226439,Brookvale Union,Ginger Beer Low Sugar Cans 330mL,24.0,101.99,24.0,25.01,4.25
+102442,Braeside Brewing Co.,Bayside IPA Cans 355mL,24.0,89.99,40.8,40356.68,2.21
+102442,Braeside Brewing Co.,Bayside IPA Cans 355mL,4.0,17.99,6.8,6726.11,2.65
+910067,Wakachangi,Premium Lager Cans 330mL,6.0,16.0,7.8,7.82,2.05
+910067,Wakachangi,Premium Lager Cans 330mL,24.0,60.99,31.2,31.26,1.95
+250203,Mountain Culture,Status Quo Pale Ale Cans 355mL,4.0,23.49,6.0,5.83,3.91
+250203,Mountain Culture,Status Quo Pale Ale Cans 355mL,16.0,67.0,24.0,23.32,2.79
+12053,Ice,Beer Lager Cans 375mL,1,4.49,1.1,1.12,4.08
+12053,Ice,Beer Lager Cans 375mL,30.0,57.99,33.0,33.75,1.76
+6006989,Amplys,Zero Sugar Ginger Beer Cans 330mL,4.0,19.0,7.2,7.19,2.64
+6006989,Amplys,Zero Sugar Ginger Beer Cans 330mL,24.0,124.99,43.2,43.14,2.89
+64868,Tooheys,Extra Dry Bottles 345mL,6.0,17.95,7.2,7.03,2.49
+64868,Tooheys,Extra Dry Bottles 345mL,24.0,49.95,28.8,28.11,1.73
+903777,Hurricane Head,Zero Sugar Ginger Cans 375mL,6.0,22.49,7.2,7.11,3.12
+903777,Hurricane Head,Zero Sugar Ginger Cans 375mL,24.0,98.99,28.8,28.42,3.44
+910446,Matso's,Lower Sugar Ginger Beer Bottles 330mL,6.0,28.0,5.4,5.47,5.19
+910446,Matso's,Lower Sugar Ginger Beer Bottles 330mL,24.0,94.99,21.6,21.88,4.4
+6047467,Better Beer,Halfy Cans 355mL,6.0,16.99,3.6,3.53,4.72
+6047467,Better Beer,Halfy Cans 355mL,24.0,42.0,14.4,14.12,2.92
+139513,Colossal Brewing,Mind Harvest East Coast IPA Cans 375mL,4.0,24.99,7.2,7.11,3.47
+139513,Colossal Brewing,Mind Harvest East Coast IPA Cans 375mL,16.0,71.99,28.8,28.42,2.5
+6004340,Hahn,Ultra Zero Carb Can 375mL,6.0,19.0,7.2,7.46,2.64
+6004340,Hahn,Ultra Zero Carb Can 375mL,24.0,60.99,28.8,29.84,2.12
+683440,Coopers,Pacific Pale Ale Cans 375mL,6.0,21.49,7.2,7.46,2.98
+683440,Coopers,Pacific Pale Ale Cans 375mL,24.0,65.99,28.8,29.84,2.29
+304371,Matso's,Nightlife Mint & Lime Ginger Beer Cans 330mL,4.0,28.99,6.4,6.25,4.53
+304371,Matso's,Nightlife Mint & Lime Ginger Beer Cans 330mL,24.0,127.99,38.4,37.51,3.33
+205951,Blackman's Brewery,O.G XPA 375mL,16.0,51.75,20.8,20841.48,2.49
+205951,Blackman's Brewery,O.G XPA 375mL,4.0,16.8,5.2,5210.37,3.23
+913828,Estrella Damm,Lager Bottle 330mL,24.0,62.99,28.8,28761.24,2.19
+913828,Estrella Damm,Lager Bottle 330mL,6.0,18.0,7.2,7190.31,2.5
+250867,Pirate Life,South Coast Pale Ale 3.5% Cans 355mL,4.0,12.0,3.92,3.92,3.06
+250867,Pirate Life,South Coast Pale Ale 3.5% Cans 355mL,16.0,53.99,15.68,15.69,3.44
+203977,Stone's,Alcoholic Ginger Beer 330mL,4.0,21.0,96.0,4.17,0.22
+203977,Stone's,Alcoholic Ginger Beer 330mL,24.0,118.99,576.0,25.01,0.21
+913692,Fellr,Ginger Beer Cans 330mL,6.0,21.0,6.0,6.25,3.5
+913692,Fellr,Ginger Beer Cans 330mL,24.0,66.75,24.0,25.01,2.78
+601575,Furphy,Original Refreshing Ale Cans 375mL,24.0,54.95,31.2,31262.22,1.76
+601575,Furphy,Original Refreshing Ale Cans 375mL,6.0,22.99,7.8,7815.56,2.95
+250183,Mountain Culture,Cult IPA 355mL,4.0,29.49,6.8,6.95,4.34
+250183,Mountain Culture,Cult IPA 355mL,16.0,89.99,27.2,27.8,3.31
+100085,Bodriggy Brewing Co,Utropia Pale Ale Cans 355mL,4.0,18.99,4.0,3.92,4.75
+100085,Bodriggy Brewing Co,Utropia Pale Ale Cans 355mL,24.0,79.99,24.0,23.54,3.33
+24446,XXXX,Gold Mid Strength Lager Bottles 375mL,6.0,20.99,6.0,6.22,3.5
+24446,XXXX,Gold Mid Strength Lager Bottles 375mL,24.0,49.95,24.0,24.87,2.08
+447325,Steersman,Ultra Dry Beer Bottles 330mL,6.0,17.99,6.54,6.57,2.75
+447325,Steersman,Ultra Dry Beer Bottles 330mL,24.0,47.0,26.16,26.26,1.8
+539834,Pure Blonde,Ultra Low Carb Bottles 330mL,6.0,20.95,6.6,6.57,3.17
+539834,Pure Blonde,Ultra Low Carb Bottles 330mL,24.0,57.9,26.4,26.26,2.19
+322455,Peroni Nastro Azzurro,Nastro Azzurro 3.5% Bottles 330mL,6.0,15.0,5.4,5.47,2.78
+322455,Peroni Nastro Azzurro,Nastro Azzurro 3.5% Bottles 330mL,24.0,57.99,21.6,21.88,2.68
+587292,San Miguel,Pale Pilsen Bottles 330mL,24.0,67.99,31.2,31262.22,2.18
+587292,San Miguel,Pale Pilsen Bottles 330mL,6.0,23.49,7.8,7815.56,3.01
+106198,Mountain Goat,Billy The Mid Can 375mL,6.0,16.0,6.0,6.22,2.67
+106198,Mountain Goat,Billy The Mid Can 375mL,24.0,60.99,24.0,24.87,2.54
+377553,Corona,Extra Bottles 12x355mL,12.0,31.95,15.6,15.13,2.05
+458119,Kaiju,Cerveza Crisp Lager Cans 375mL,6.0,23.49,7.8,7.82,3.01
+458119,Kaiju,Cerveza Crisp Lager Cans 375mL,24.0,72.99,31.2,31.26,2.34
+904075,Weihenstephaner,Kristall Weissbier Bottles 500mL,1,8.99,2.1,2.13,4.28
+904075,Weihenstephaner,Kristall Weissbier Bottles 500mL,12.0,74.99,25.2,25.58,2.98
+839565,Great Northern Brewing Co.,Super Crisp 3.5% Lager Cans 375mL,6.0,20.99,6.0,6.22,3.5
+839565,Great Northern Brewing Co.,Super Crisp 3.5% Lager Cans 375mL,24.0,51.99,24.0,24.87,2.17
+521714,Moon Dog,Old Mate Pale Ale 330mL,24.0,80.99,31.2,31262.22,2.6
+521714,Moon Dog,Old Mate Pale Ale 330mL,6.0,27.49,7.8,7815.56,3.52
+319404,Dainton,Jungle Juice Hazy IPA Can 375mL,4.0,24.99,7.6,7.7,3.29
+319404,Dainton,Jungle Juice Hazy IPA Can 375mL,16.0,76.99,30.4,30.79,2.53
+6004341,XXXX,Ginger Alcoholic Ginger Beer Cans 330mL,6.0,25.99,6.0,5.47,4.33
+6004341,XXXX,Ginger Alcoholic Ginger Beer Cans 330mL,24.0,84.99,24.0,21.88,3.54
+810535,Rover,Henty St Ale Cans 375mL,24.0,58.0,31.2,30551.72,1.86
+810535,Rover,Henty St Ale Cans 375mL,6.0,21.99,7.8,7637.93,2.82
+25620,Coopers,Original Pale Ale Bottles 375mL,6.0,21.45,7.8,7.99,2.75
+25620,Coopers,Original Pale Ale Bottles 375mL,24.0,58.95,31.2,31.97,1.89
+324139,Hahn,SuperDry Lager 3.5% Bottles 330mL,6.0,20.99,5.4,5.47,3.89
+324139,Hahn,SuperDry Lager 3.5% Bottles 330mL,24.0,50.95,21.6,21.88,2.36
+907131,Tsingtao,Premium Lager Bottles 330mL,24.0,53.0,28.8,28136.0,1.84
+907131,Tsingtao,Premium Lager Bottles 330mL,6.0,19.99,7.2,7034.0,2.78
+6027210,Brick Lane,Zero Carb Japanese Lager Can 355mL,6.0,18.0,7.2,7.06,2.5
+6027210,Brick Lane,Zero Carb Japanese Lager Can 355mL,24.0,62.99,28.8,28.25,2.19
+59709,Coopers,XPA Cans 375mL,6.0,22.0,9.0,9.24,2.44
+59709,Coopers,XPA Cans 375mL,24.0,77.99,36.0,36.95,2.17
+784529,Mountain Goat,Fancy Pants Amber Ale Cans 375mL,6.0,28.99,9.0,9.24,3.22
+784529,Mountain Goat,Fancy Pants Amber Ale Cans 375mL,24.0,75.99,36.0,36.95,2.11
+911661,Travla,Full Strength Lager Cans 375mL,6.0,22.99,7.2,7.46,3.19
+911661,Travla,Full Strength Lager Cans 375mL,24.0,59.0,28.8,29.84,2.05
+129444,Monsuta,Okinawa Dry Cans 350mL,6.0,22.99,8.4,8.29,2.74
+129444,Monsuta,Okinawa Dry Cans 350mL,24.0,56.0,33.6,33.16,1.67
+102463,Braeside Brewing Co.,XPA 43 Cans 355mL,6.0,23.49,216.0,9.25,0.11
+102463,Braeside Brewing Co.,XPA 43 Cans 355mL,24.0,85.99,864.0,36.99,0.1
+639041,Great Northern Brewing Co.,Super Crisp Lager 700mL,3.0,21.99,68.4,5.8,0.32
+639041,Great Northern Brewing Co.,Super Crisp Lager 700mL,12.0,70.99,273.6,23.21,0.26
+363840,Stone & Wood,Hinterland Big Pale Ale Can 375mL,4.0,23.49,6.8,6.63,3.45
+363840,Stone & Wood,Hinterland Big Pale Ale Can 375mL,16.0,70.99,27.2,26.53,2.61
+371264,John Boston,Pale Ale Bottle 330mL,6.0,16.0,6.6,6.57,2.42
+371264,John Boston,Pale Ale Bottle 330mL,24.0,55.99,26.4,26.26,2.12
+69278,Southwark,Old Stout 375mL,24.0,81.99,52.8,52577.37,1.55
+69278,Southwark,Old Stout 375mL,6.0,27.99,13.2,13144.34,2.12
+72240,Tiger,Asian Lager Bottles 330mL,6.0,24.49,7.8,7.82,3.14
+72240,Tiger,Asian Lager Bottles 330mL,24.0,53.9,31.2,31.26,1.73
+712652,Hook Norton,Old Hooky Ale 500mL,1,7.99,1.8,1815.74,4.44
+712652,Hook Norton,Old Hooky Ale 500mL,12.0,63.99,21.6,21788.82,2.96
+205637,Little Creatures,Little Hazy Lager Cans 375mL,4.0,19.99,4.0,4.14,5.0
+205637,Little Creatures,Little Hazy Lager Cans 375mL,16.0,53.99,16.0,16.58,3.37
+96151,Sol,Cerveza Original Bottles 330mL,6.0,23.99,6.6,6.57,3.63
+96151,Sol,Cerveza Original Bottles 330mL,24.0,51.9,26.4,26.26,1.97
+19559,Guinness,Extra Stout Bottles 375mL,6.0,29.99,10.8,10.66,2.78
+19559,Guinness,Extra Stout Bottles 375mL,24.0,91.99,43.2,42.63,2.13
+6049209,Hahn,SuperDry 1.8% Cans 375mL,6.0,16.0,3.0,76.73,5.33
+6049209,Hahn,SuperDry 1.8% Cans 375mL,24.0,55.99,12.0,306.94,4.67
+87821,Wilde Brewing Co,Gluten Free Pale Ale Bottles 330mL,6.0,25.99,5.4,5.47,4.81
+87821,Wilde Brewing Co,Gluten Free Pale Ale Bottles 330mL,24.0,75.99,21.6,21.88,3.52
+569365,Peroni Nastro Azzurro,Red Lager Bottle 330mL,3.0,11.99,3.6,3.67,3.33
+569365,Peroni Nastro Azzurro,Red Lager Bottle 330mL,24.0,57.99,28.8,29.39,2.01
+309808,Steersman,Blonde 4.2% Cans 330mL,1,4.99,1.1,1.09,4.54
+309808,Steersman,Blonde 4.2% Cans 330mL,30.0,54.99,33.0,32.83,1.67
+205886,Blackman's Brewery,Torquay XPA 375mL,16.0,68.99,20.8,20841.48,3.32
+205886,Blackman's Brewery,Torquay XPA 375mL,4.0,21.0,5.2,5210.37,4.04
+236125,Obrien Brewing,Pale Ale 375ml,6.0,23.99,7.8,7.99,3.08
+236125,Obrien Brewing,Pale Ale 375ml,24.0,72.99,31.2,31.97,2.34
+6027323,Asahi,Super Dry Fusions Lemon Yuzu Bottle 330mL,6.0,19.0,6.0,6.25,3.17
+6027323,Asahi,Super Dry Fusions Lemon Yuzu Bottle 330mL,24.0,56.99,24.0,25.01,2.37
+447309,Steersman,Blonde Low Carb Beer 330mL,6.0,17.99,6.6,6.57,2.73
+447309,Steersman,Blonde Low Carb Beer 330mL,24.0,47.0,26.4,26.26,1.78
+205880,Blackman's,Mervyn Pale Ale Cans 375mL,4.0,21.0,5.6,5.45,3.75
+205880,Blackman's,Mervyn Pale Ale Cans 375mL,16.0,65.99,22.4,21.79,2.95
+10461,Melbourne Bitter,Cans 375mL,6.0,24.99,8.4,8.17,2.98
+10461,Melbourne Bitter,Cans 375mL,24.0,64.0,33.6,32.68,1.9
+839496,Great Northern Brewing Co.,Super Crisp Lager Bottles 330mL,6.0,17.95,6.0,5.47,2.99
+839496,Great Northern Brewing Co.,Super Crisp Lager Bottles 330mL,24.0,54.95,24.0,21.88,2.29
+36444,Crown,Lager Bottles 375mL,6.0,25.99,8.4,8.7,3.09
+36444,Crown,Lager Bottles 375mL,24.0,59.9,33.6,34.81,1.78
+382472,Hahn,Super Dry 3.5% 30 Block Cans 375mL,1,4.49,1.0,1.04,4.49
+382472,Hahn,Super Dry 3.5% 30 Block Cans 375mL,30.0,56.95,30.0,31.08,1.9
+198988,Monsuta,Okinawa Supreme Cans 350mL,6.0,19.0,8.4,8.29,2.26
+198988,Monsuta,Okinawa Supreme Cans 350mL,24.0,67.99,33.6,33.16,2.02
+365434,Miller,Chill With Lime Lager Bottles 330mL,6.0,19.95,6.0,6.25,3.32
+365434,Miller,Chill With Lime Lager Bottles 330mL,24.0,52.9,24.0,25.01,2.2
+385197,Yebisu,Premium Cans 350mL,4.0,22.49,5.6,5.53,4.02
+385197,Yebisu,Premium Cans 350mL,24.0,89.99,33.6,33.16,2.68
+311856,Carlton Dry,Mid 3.5% Cans 375mL,1,5.69,1.0,1.04,5.69
+311856,Carlton Dry,Mid 3.5% Cans 375mL,30.0,56.95,30.0,31.08,1.9
+6027226,Travla,Mid Strength Lager Block Cans 375mL,30.0,58.95,30.0,31.08,1.97
+560632,Balter,XPA Cans 375mL,4.0,19.95,6.0,5.92,3.32
+560632,Balter,XPA Cans 375mL,16.0,62.0,24.0,23.68,2.58
+6040734,Pirate Life,x Mountain Culture Mountain Life IIPA Cans 355mL,4.0,25.99,10.0,9.86,2.6
+6040734,Pirate Life,x Mountain Culture Mountain Life IIPA Cans 355mL,16.0,95.99,40.0,39.46,2.4
+67870,James Boag's,Premium Lager Bottles 375mL,6.0,18.95,8.4,8.17,2.26
+67870,James Boag's,Premium Lager Bottles 375mL,24.0,59.99,33.6,32.68,1.79
+264652,Little Creatures,Pale Ale Cans 375mL,4.0,25.99,6.0,6.16,4.33
+264652,Little Creatures,Pale Ale Cans 375mL,16.0,65.99,24.0,24.63,2.75
+72869,Stella Artois,Bottles 330mL,6.0,22.49,7.2,7.5,3.12
+72869,Stella Artois,Bottles 330mL,24.0,54.95,28.8,30.01,1.91
+357480,Corona,Extra Beer Bottles 355mL,6.0,24.95,7.8,7.57,3.2
+357480,Corona,Extra Beer Bottles 355mL,24.0,69.95,31.2,30.27,2.24
+160158,Golden Pipes,Hazy Pale Ale Cans 375mL,6.0,26.99,9.0,8.88,3.0
+160158,Golden Pipes,Hazy Pale Ale Cans 375mL,24.0,72.99,36.0,35.53,2.03
+288469,Mountain Goat,GOAT Very Enjoyable Beer 500mL,6.0,24.99,9.6,9.95,2.6
+288469,Mountain Goat,GOAT Very Enjoyable Beer 500mL,24.0,71.99,38.4,39.79,1.87
+638028,Buderim,Alcoholic Ginger Beer Bottles 330mL,4.0,22.0,4.8,4.69,4.58
+638028,Buderim,Alcoholic Ginger Beer Bottles 330mL,24.0,107.99,28.8,28.14,3.75
+98903,Asahi,Super Dry Bottles 330mL,6.0,19.95,7.8,7.82,2.56
+98903,Asahi,Super Dry Bottles 330mL,24.0,57.95,31.2,31.26,1.86
+692011,Stomping Ground,Hop Stomper   IPA Cans 355mL,4.0,20.0,6.4,6.61,3.12
+692011,Stomping Ground,Hop Stomper   IPA Cans 355mL,16.0,69.99,25.6,26.46,2.73
+24544,Abbotsford,Invalid Stout Bottles 375mL,24.0,76.99,36.0,36946.26,2.14
+24544,Abbotsford,Invalid Stout Bottles 375mL,6.0,28.99,9.0,9236.57,3.22
+907220,Hahn,Super Dry Lager Bottle 330mL,6.0,22.99,7.2,7.19,3.19
+907220,Hahn,Super Dry Lager Bottle 330mL,24.0,56.95,28.8,28.76,1.98
+921675,Pure Blonde,Ultra Low Carb Lager Cans 375mL,6.0,22.99,7.2,7.46,3.19
+921675,Pure Blonde,Ultra Low Carb Lager Cans 375mL,24.0,57.9,28.8,29.84,2.01
+651269,Iron Jack,Crisp Lager Cans 375mL,1,4.09,1.0,0.98,4.09
+651269,Iron Jack,Crisp Lager Cans 375mL,30.0,60.95,30.0,29.31,2.03
+810685,Brick Lane,One Love Pale Ale Cans 355mL,6.0,24.99,7.2,7.4,3.47
+810685,Brick Lane,One Love Pale Ale Cans 355mL,24.0,72.99,28.8,29.59,2.53
+878604,Furphy,Original Refreshing Ale Bottles 375mL,6.0,23.99,7.8,7.82,3.08
+878604,Furphy,Original Refreshing Ale Bottles 375mL,24.0,52.95,31.2,31.26,1.7
+138940,Duvel,Golden Belgian Ale 330mL,24.0,159.99,52.8,53145.77,3.03
+138940,Duvel,Golden Belgian Ale 330mL,4.0,28.0,8.8,8857.63,3.18
+916723,Brok,Polish Beer 24x330mL,1,5.99,1.3,1.3,4.61
+916723,Brok,Polish Beer 24x330mL,24.0,89.99,31.2,31.26,2.88
+6035716,Mountain Goat,Full Flower Moon Band Beer Cans 375mL,6.0,23.99,7.8,7.82,3.08
+6035716,Mountain Goat,Full Flower Moon Band Beer Cans 375mL,18.0,64.99,23.4,23.45,2.78
+25534,Urban Alley Brewery,Ale 375mL,24.0,68.99,31.2,31972.73,2.21
+25534,Urban Alley Brewery,Ale 375mL,6.0,21.99,7.8,7993.18,2.82
+6027329,Schöfferhofer,Grapefruit Can 500mL,4.0,23.99,4.0,3.95,6.0
+6027329,Schöfferhofer,Grapefruit Can 500mL,24.0,104.99,24.0,23.68,4.37
+18457,Gage Roads,Single Fin Summer Ale Cans 330mL,6.0,22.99,7.2,7.03,3.19
+18457,Gage Roads,Single Fin Summer Ale Cans 330mL,24.0,66.99,28.8,28.14,2.33
+6040735,Budweiser,Bottles 330mL,6.0,22.49,7.8,7.11,2.88
+6040735,Budweiser,Bottles 330mL,24.0,65.99,31.2,28.42,2.12
+333573,White Rabbit,Dark Ale 330mL,6.0,28.99,7.8,7.66,3.72
+333573,White Rabbit,Dark Ale 330mL,24.0,88.99,31.2,30.64,2.85
+399873,Kaiju,Metamorphosis West Coast IPA Cans 375mL,4.0,24.99,7.2,7.34,3.47
+399873,Kaiju,Metamorphosis West Coast IPA Cans 375mL,16.0,73.99,28.8,29.37,2.57
+6006103,Sobah,Tropical Lager Cans 375mL,4.0,17.99,4.0,0.59,4.5
+6006103,Sobah,Tropical Lager Cans 375mL,24.0,77.99,24.0,3.55,3.25
+751451,Coopers,Original Pale Ale Cans 375mL,6.0,21.45,7.8,7.99,2.75
+751451,Coopers,Original Pale Ale Cans 375mL,24.0,59.95,31.2,31.97,1.92
+96447,Coopers,Dark Ale Bottles 375mL,6.0,24.99,7.8,7.99,3.2
+96447,Coopers,Dark Ale Bottles 375mL,24.0,60.0,31.2,31.97,1.92
+25600,Coopers,Best Extra Stout Bottles 375mL,6.0,24.95,11.4,11.19,2.19
+25600,Coopers,Best Extra Stout Bottles 375mL,24.0,74.95,45.6,44.76,1.64
+108682,Cascade,Premium Light Bottle 375mL,6.0,20.99,4.2,4.26,5.0
+108682,Cascade,Premium Light Bottle 375mL,24.0,55.9,16.8,17.05,3.33
+260929,Better Beer,Middy Lager 3.0% Can 355mL,6.0,18.99,4.8,5.04,3.96
+260929,Better Beer,Middy Lager 3.0% Can 355mL,24.0,50.0,19.2,20.18,2.6
+18495,Two Bays Brewing Co.,Gluten Free Pale Ale Cans 375mL,4.0,28.99,5.2,5.33,5.57
+18495,Two Bays Brewing Co.,Gluten Free Pale Ale Cans 375mL,16.0,82.0,20.8,21.32,3.94
+322705,Coopers,Australian Lager Cans 375mL,6.0,24.49,7.2,7.46,3.4
+322705,Coopers,Australian Lager Cans 375mL,24.0,65.99,28.8,29.84,2.29
+60138,Zytho Brewing,Zesty Pale Ale Cans 375mL,6.0,26.99,8.4,8.17,3.21
+60138,Zytho Brewing,Zesty Pale Ale Cans 375mL,24.0,75.0,33.6,32.68,2.23
+64871,Tooheys,Old Dark Ale Bottles 375mL,6.0,23.49,7.8,7.82,3.01
+64871,Tooheys,Old Dark Ale Bottles 375mL,24.0,69.99,31.2,31.26,2.24
+911640,Wrexham,Lager 4.0 Bottles 330mL,6.0,21.99,6.24,6.25,3.52
+911640,Wrexham,Lager 4.0 Bottles 330mL,1,64.99,1.04,1.04,62.49
+190594,Urban Alley Brewery,Man-Goes Nowhere Sour Ale Cans 375mL,4.0,14.0,6.4,6.39,2.19
+190594,Urban Alley Brewery,Man-Goes Nowhere Sour Ale Cans 375mL,24.0,88.99,38.4,38.37,2.32
+913723,Travla,Mid Strength Lager Cans 375mL,6.0,20.99,6.24,6.22,3.36
+913723,Travla,Mid Strength Lager Cans 375mL,24.0,49.95,24.96,24.87,2.0
+910427,Coopers,Dry 3.5% Cans 375mL,6.0,24.99,6.0,6.22,4.17
+910427,Coopers,Dry 3.5% Cans 375mL,24.0,50.0,24.0,24.87,2.08
+902136,Monteith's,Black Beer Bottles 330mL,24.0,64.99,33.6,32512.71,1.93
+902136,Monteith's,Black Beer Bottles 330mL,6.0,23.49,8.4,8128.18,2.8
+709123,Sapporo,Premium Lager Bottles 355mL,6.0,19.95,8.4,8.41,2.38
+709123,Sapporo,Premium Lager Bottles 355mL,24.0,59.95,33.6,33.63,1.78
+314005,Hop Nation,J Juice Hazy IPA Cans 355mL,4.0,24.0,8.0,7.96,3.0
+314005,Hop Nation,J Juice Hazy IPA Cans 355mL,16.0,78.99,32.0,31.84,2.47
+6006123,Young Henrys,Newtowner Pale Ale 3.5 Cans 375mL,4.0,19.99,4.0,4.14,5.0
+6006123,Young Henrys,Newtowner Pale Ale 3.5 Cans 375mL,16.0,57.0,16.0,16.58,3.56
+901691,Singha,Lager Beer 330mL,24.0,87.99,31.2,31262.22,2.82
+901691,Singha,Lager Beer 330mL,6.0,29.99,7.8,7815.56,3.84
+906086,Amplys,Ginger Beer Firestorm Can 375mL,4.0,19.0,7.2,7.11,2.64
+906086,Amplys,Ginger Beer Firestorm Can 375mL,24.0,124.99,43.2,42.63,2.89
+205776,Kirin,Ichiban Bottle 330mL,6.0,23.99,7.8,7.82,3.08
+205776,Kirin,Ichiban Bottle 330mL,24.0,57.95,31.2,31.26,1.86
+365420,Miller,Genuine Draft 330mL,6.0,21.99,7.2,7.35,3.05
+365420,Miller,Genuine Draft 330mL,24.0,55.0,28.8,29.39,1.91
+464773,4 Pines,New World Pale Ale Can 375mL,6.0,19.0,7.2,7.46,2.64
+464773,4 Pines,New World Pale Ale Can 375mL,18.0,53.99,21.6,22.38,2.5
+92510,Black Hops,GOAT Hazy IPA Cans 375mL,4.0,26.0,7.12,7.11,3.65
+92510,Black Hops,GOAT Hazy IPA Cans 375mL,16.0,86.99,28.48,28.42,3.05
+688990,CBCo Brewing,Southwest Sour Cans 375mL,4.0,22.0,5.6,5.45,3.93
+688990,CBCo Brewing,Southwest Sour Cans 375mL,16.0,71.99,22.4,21.79,3.21
+60722,Fixation,IPA Cans 330mL,4.0,23.99,6.8,6.67,3.53
+60722,Fixation,IPA Cans 330mL,16.0,74.99,27.2,26.68,2.76
+901042,Hahn,Premium Light 375mL,6.0,20.99,4.2,3.91,5.0
+901042,Hahn,Premium Light 375mL,24.0,52.99,16.8,15.63,3.15
+272505,Pirate Life,Stout Cans 355mL,4.0,22.99,6.4,6.28,3.59
+272505,Pirate Life,Stout Cans 355mL,16.0,60.99,25.6,25.11,2.38
+662227,James Squire,150 Lashes Pale Ale Can 355mL,24.0,58.99,28.8,28249.68,2.05
+662227,James Squire,150 Lashes Pale Ale Can 355mL,6.0,26.99,7.2,7062.42,3.75
+653821,Balter,IPA Cans 375mL,4.0,26.99,8.4,8.05,3.21
+653821,Balter,IPA Cans 375mL,16.0,80.99,33.6,32.21,2.41
+205929,Blackman's Brewery,Reginald IPA Cans 375mL,4.0,18.2,7.2,7.34,2.53
+205929,Blackman's Brewery,Reginald IPA Cans 375mL,16.0,62.4,28.8,29.37,2.17
+681299,Your Mates Brewing Co.,Larry Pale Ale 375mL,4.0,20.0,5.2,5.33,3.85
+681299,Your Mates Brewing Co.,Larry Pale Ale 375mL,16.0,73.99,20.8,21.32,3.56
+231424,Sudo,Lager Can 350mL,6.0,20.99,7.8,8.29,2.69
+231424,Sudo,Lager Can 350mL,24.0,59.99,31.2,33.16,1.92
+64845,Melbourne Bitter,Bottles 375mL,6.0,24.99,201.6,8170.81,0.12
+64845,Melbourne Bitter,Bottles 375mL,24.0,64.0,806.4,32683.23,0.08
+706420,Matso's,Mango Beer 330mL,6.0,25.99,7.2,7.03,3.61
+706420,Matso's,Mango Beer 330mL,24.0,80.0,28.8,28.14,2.78
+64844,Melbourne Bitter,Longneck 750mL,1,8.69,2.7,2.72,3.22
+64844,Melbourne Bitter,Longneck 750mL,12.0,78.99,32.4,32.68,2.44
+317147,Hop Nation,Rattenhund Classic Pilsner Can 355mL,4.0,15.4,5.2,5.38,2.96
+317147,Hop Nation,Rattenhund Classic Pilsner Can 355mL,16.0,52.5,20.8,21.52,2.52
+6063258,Two Bays Brewing Co.,Czech Dark Lager Cans 375mL,4.0,33.49,5.2,5.68,6.44
+6063258,Two Bays Brewing Co.,Czech Dark Lager Cans 375mL,16.0,103.99,20.8,22.74,5.0
+6004781,Steersman,Ultra Mid Bottle 330mL,6.0,16.99,6.0,5.47,2.83
+6004781,Steersman,Ultra Mid Bottle 330mL,24.0,45.0,24.0,21.88,1.88
+905575,Coopers,Mild Ale 3.5% Cans 375mL,6.0,17.0,6.0,6.22,2.83
+905575,Coopers,Mild Ale 3.5% Cans 375mL,24.0,56.95,24.0,24.87,2.37
+38879,Emu,Export 30 Block Cans 375mL,6.0,23.99,7.44,7.46,3.22
+38879,Emu,Export 30 Block Cans 375mL,30.0,66.99,37.2,37.3,1.8
+53856,Hawkers Beer,West Coast IPA Can 375mL,4.0,23.99,6.32,8.53,3.8
+53856,Hawkers Beer,West Coast IPA Can 375mL,16.0,78.99,25.28,34.1,3.12
+11046,Red Hill Brewery,Session IPA Cans 355mL,4.0,19.99,6.4,6165.6,3.12
+11046,Red Hill Brewery,Session IPA Cans 355mL,24.0,94.99,38.4,36993.63,2.47
+147982,Urban Alley Brewery,Slapshot Aussie Pale Ale 375mL,24.0,86.99,31.2,31972.73,2.79
+147982,Urban Alley Brewery,Slapshot Aussie Pale Ale 375mL,4.0,17.99,5.2,5328.79,3.46
+713477,Heineken,Cans 500mL,6.0,24.95,12.0,11.84,2.08
+713477,Heineken,Cans 500mL,24.0,70.0,48.0,47.37,1.46
+35014,Chimay,Blue 330mL,1,9.99,2.3,2344.67,4.34
+35014,Chimay,Blue 330mL,12.0,84.99,27.6,28136.0,3.08
+278561,Hurricane Head,Ginger Cans 375mL,6.0,26.99,7.2,7.11,3.75
+278561,Hurricane Head,Ginger Cans 375mL,24.0,90.0,28.8,28.42,3.13
+661260,Philter,XPA Cans 375mL,4.0,17.99,4.8,4.97,3.75
+661260,Philter,XPA Cans 375mL,16.0,54.99,19.2,19.89,2.86
+906138,Theakston's,Old Peculier 500mL,1,10.99,2.2,2.21,5.0
+906138,Theakston's,Old Peculier 500mL,8.0,70.99,17.6,17.68,4.03
+72131,St Andrews Beach Brewery,6 Furlongs Pale Ale Cans 375mL,4.0,19.99,6.16,6.16,3.25
+72131,St Andrews Beach Brewery,6 Furlongs Pale Ale Cans 375mL,16.0,60.99,24.64,24.63,2.48
+908534,Menabrea,Birra Bottle 330mL,24.0,95.99,31.2,30011.73,3.08
+908534,Menabrea,Birra Bottle 330mL,6.0,31.99,7.8,7502.93,4.1
+906100,Adnams,Broadside Strong Original 500mL,1,7.99,1.6,2486.77,4.99
+906100,Adnams,Broadside Strong Original 500mL,12.0,63.99,19.2,29841.21,3.33
+197773,Rugged Thumb,Ginger Beer Bottle 500mL,1,8.99,1.6,1.58,5.62
+197773,Rugged Thumb,Ginger Beer Bottle 500mL,12.0,80.99,19.2,18.95,4.22
+248448,Belhaven,Scottish Ale 500mL,1,7.99,2.1,2.05,3.8
+248448,Belhaven,Scottish Ale 500mL,12.0,63.99,25.2,24.63,2.54
+78876,Dab,German Beer Cans 500mL,6.0,25.99,12.0,11.84,2.17
+78876,Dab,German Beer Cans 500mL,24.0,68.0,48.0,47.37,1.42
+310273,The Mill Brewery,Pale Ale Can 375mL,4.0,19.99,6.0,6.04,3.33
+310273,The Mill Brewery,Pale Ale Can 375mL,24.0,85.99,36.0,36.24,2.39
+216877,4 Pines,Ultra Low Cans 375mL,4.0,9.0,0.6,101.64,15.0
+216877,4 Pines,Ultra Low Cans 375mL,24.0,50.99,3.6,609.85,14.16
+905011,Delirium,Tremens Beer Bottles 330mL,1,10.99,2.21,2.21,4.97
+905011,Delirium,Tremens Beer Bottles 330mL,24.0,189.99,53.04,53.15,3.58
+189341,Ginger & Ginger,& Ginger Beer Can 355ml,4.0,21.99,4.4,4484.08,5.0
+189341,Ginger & Ginger,& Ginger Beer Can 355ml,16.0,75.99,17.6,17936.3,4.32
+309590,Matso's,Nightlife Alcoholic Ginger Beer Cans 330mL,4.0,28.99,6.4,6.25,4.53
+309590,Matso's,Nightlife Alcoholic Ginger Beer Cans 330mL,24.0,127.99,38.4,37.51,3.33
+907085,La Chouffe,Ale Bottles 750mL,1,19.99,4.7,4.74,4.25
+907085,La Chouffe,Ale Bottles 750mL,12.0,144.99,56.4,56.84,2.57
+878525,Shepherd Neame,India Pale Ale 500mL,1,7.99,2.4,2.41,3.33
+878525,Shepherd Neame,India Pale Ale 500mL,8.0,53.99,19.2,19.26,2.81
+228924,Monsuta,Okinawa Dry Cans 500mL,6.0,26.99,12.0,11.84,2.25
+228924,Monsuta,Okinawa Dry Cans 500mL,24.0,77.99,48.0,47.37,1.62
+936545,Asahi,Super Dry 3.5% Lager Bottles 330mL,6.0,18.99,5.4,5.47,3.52
+936545,Asahi,Super Dry 3.5% Lager Bottles 330mL,24.0,57.99,21.6,21.88,2.68
+6027242,Great Northern Brewing Co.,Ginger Beer 3.5% Cans 330mL,6.0,26.99,5.4,5.47,5.0
+6027242,Great Northern Brewing Co.,Ginger Beer 3.5% Cans 330mL,24.0,86.99,21.6,21.88,4.03
+24405,XXXX,Gold 30 Block Cans 375mL,30.0,55.95,30.0,31.08,1.86
+712656,Hook Norton,Haymaker Pale Ale 500mL,1,7.99,2.0,1973.62,4.0
+712656,Hook Norton,Haymaker Pale Ale 500mL,12.0,63.99,24.0,23683.5,2.67
+309539,Balter,Cerveza Cans 375mL,6.0,23.99,7.2,7.11,3.33
+309539,Balter,Cerveza Cans 375mL,24.0,67.99,28.8,28.42,2.36
+676259,Stomping Ground,Gipps St Pale Ale Cans 355mL,6.0,23.0,9.0,8.74,2.56
+676259,Stomping Ground,Gipps St Pale Ale Cans 355mL,18.0,59.99,27.0,26.23,2.22
+107501,Hop Hen Brewing,3C IPA Can 375mL,4.0,16.55,7.2,7.34,2.3
+107501,Hop Hen Brewing,3C IPA Can 375mL,24.0,78.7,43.2,44.05,1.82
+1517,Schöfferhofer,Hefeweizen 500mL,6.0,40.99,11.4,11.84,3.6
+1517,Schöfferhofer,Hefeweizen 500mL,18.0,98.99,34.2,35.53,2.89
+108779,Pirate Life,South Coast Pale Ale Cans 355mL,4.0,17.99,4.8,4.93,3.75
+108779,Pirate Life,South Coast Pale Ale Cans 355mL,16.0,49.9,19.2,19.73,2.6
+49340,Guinness,Extra Stout 750mL,1,12.49,3.6,3.55,3.47
+49340,Guinness,Extra Stout 750mL,12.0,92.99,43.2,42.63,2.15
+232656,Vasto,Cerveza Bottle 330mL,6.0,19.99,7.2,7.03,2.78
+232656,Vasto,Cerveza Bottle 330mL,24.0,45.0,28.8,28.14,1.56
+6004780,Calaverita,Cerveza Lager Bottles 330mL,6.0,20.99,7.2,6.88,2.92
+6004780,Calaverita,Cerveza Lager Bottles 330mL,24.0,58.99,28.8,27.51,2.05
+807666,Balter,Captain Sensible Cans 375mL,4.0,16.0,4.0,4.14,4.0
+807666,Balter,Captain Sensible Cans 375mL,16.0,58.99,16.0,16.58,3.69
+317133,Dainton,Blood Orange Juicy IPA Cans 375mL,4.0,24.99,102.4,6.51,0.24
+317133,Dainton,Blood Orange Juicy IPA Cans 375mL,16.0,72.99,409.6,26.05,0.18
+464768,Modus,Cerveza Bottles 330mL,6.0,22.99,6.6,6.57,3.48
+464768,Modus,Cerveza Bottles 330mL,24.0,66.99,26.4,26.26,2.54
+798161,Asahi,Super Dry Cans 500mL,6.0,27.95,12.0,11.84,2.33
+798161,Asahi,Super Dry Cans 500mL,24.0,83.95,48.0,47.37,1.75
+710810,La Trappe,Blond 330mL,24.0,116.99,40.8,40640.89,2.87
+710810,La Trappe,Blond 330mL,4.0,22.99,6.8,6773.48,3.38
+254423,Kaiju,Pleazure Kruze Hazy Pale Ale Cans 375mL,4.0,23.49,5.6,5.68,4.19
+254423,Kaiju,Pleazure Kruze Hazy Pale Ale Cans 375mL,16.0,71.99,22.4,22.74,3.21
+59836,Bluey,Ultra Crisp Lager Cans 375mL,1,5.99,1.0,1.04,5.99
+59836,Bluey,Ultra Crisp Lager Cans 375mL,30.0,58.99,30.0,31.08,1.97
+6027309,Rodenbach,Grand Cru Bottles 330mL,4.0,35.99,6.4,6.25,5.62
+6027309,Rodenbach,Grand Cru Bottles 330mL,24.0,159.99,38.4,37.51,4.17
+799124,Tooheys,Extra Dry Cans 375mL,1,3.49,1.3,1.3,2.68
+799124,Tooheys,Extra Dry Cans 375mL,30.0,61.99,39.0,39.08,1.59
+238530,James Squire,150 Lashes Premium Pale Ale Bottles 330mL,6.0,24.99,6.6,6.57,3.79
+238530,James Squire,150 Lashes Premium Pale Ale Bottles 330mL,24.0,57.95,26.4,26.26,2.2
+8866,Jetty Road Brewery,IPA Cans 375mL,4.0,20.99,7.2,6.87,2.92
+8866,Jetty Road Brewery,IPA Cans 375mL,24.0,104.99,43.2,41.21,2.43
+238255,James Squire,Broken Shackles Lager 330mL Bottle,6.0,25.99,7.2,7.19,3.61
+238255,James Squire,Broken Shackles Lager 330mL Bottle,24.0,64.99,28.8,28.76,2.26
+706694,Hollandia,Beer 650mL,1,7.99,2.4,2.41,3.33
+706694,Hollandia,Beer 650mL,15.0,66.99,36.0,36.18,1.86
+277770,4 Pines,Hazy Pale Ale Cans 375mL,4.0,23.99,7.2,7.11,3.33
+277770,4 Pines,Hazy Pale Ale Cans 375mL,24.0,91.99,43.2,42.63,2.13
+6027339,Foster's,Light Ice Bottle 330mL,6.0,11.9,3.0,3.13,3.97
+6027339,Foster's,Light Ice Bottle 330mL,24.0,36.0,12.0,12.5,3.0
+72357,St Andrews Beach Brewery,Hazy Pale Ale 375ml,4.0,19.99,5.4,5.45,3.7
+72357,St Andrews Beach Brewery,Hazy Pale Ale 375ml,16.0,60.99,21.6,21.79,2.82
+60281,Byron Bay Brewery,Premium Lager Bottles 355mL,6.0,22.99,7.2,7.06,3.19
+60281,Byron Bay Brewery,Premium Lager Bottles 355mL,24.0,62.99,28.8,28.25,2.19
+64488,Carlton Draught,Bottles 375mL,6.0,17.95,8.4,8.17,2.14
+64488,Carlton Draught,Bottles 375mL,24.0,58.9,33.6,32.68,1.75
+471009,Young Henrys,Classic Crisp Mid Can 375mL,6.0,18.0,6.0,6.22,3.0
+471009,Young Henrys,Classic Crisp Mid Can 375mL,24.0,62.99,24.0,24.87,2.62
+133202,Balter,IIPA Cans 375mL,4.0,30.99,9.4,9.47,3.3
+133202,Balter,IIPA Cans 375mL,16.0,99.99,37.6,37.89,2.66
+205547,Mountain Goat,Steam Ale Can 375mL,6.0,19.0,7.2,7.99,2.64
+205547,Mountain Goat,Steam Ale Can 375mL,24.0,72.99,28.8,31.97,2.53
+458001,CBCo Brewing,Middy Lager Cans 375mL,6.0,20.39,6.0,6.22,3.4
+458001,CBCo Brewing,Middy Lager Cans 375mL,24.0,60.99,24.0,24.87,2.54
+464702,James Squire,Ginger Beer DOUBLE 330mL,4.0,28.99,6.4,6.25,4.53
+464702,James Squire,Ginger Beer DOUBLE 330mL,24.0,132.99,38.4,37.51,3.46
+6004873,Stone & Wood,Easy Pale Ale Cans 375mL,4.0,16.0,4.0,4.14,4.0
+6004873,Stone & Wood,Easy Pale Ale Cans 375mL,16.0,56.99,16.0,16.58,3.56
+191777,Mountain Goat,Hazy Pale Ale Can 375mL,6.0,19.0,7.8,8.17,2.44
+191777,Mountain Goat,Hazy Pale Ale Can 375mL,24.0,76.99,31.2,32.68,2.47
+795833,Stone's,Ginger Joe Alcoholic Beer Bottles 500mL,1,9.49,3.2,3.16,2.97
+795833,Stone's,Ginger Joe Alcoholic Beer Bottles 500mL,12.0,95.99,38.4,37.89,2.5
+143256,Moon Dog,Old Mate Pale Ale Cans 330mL,6.0,26.49,7.8,7.03,3.4
+143256,Moon Dog,Old Mate Pale Ale Cans 330mL,24.0,80.99,31.2,28.14,2.6
+916901,Oettinger,Pils Cans 500mL,6.0,28.49,11.1,11.13,2.57
+916901,Oettinger,Pils Cans 500mL,24.0,68.99,44.4,44.52,1.55
+365986,Great Northern Brewing Co.,Original Lager Bottles 330mL,6.0,20.99,6.6,6.57,3.18
+365986,Great Northern Brewing Co.,Original Lager Bottles 330mL,24.0,55.9,26.4,26.26,2.12
+468556,Victoria Bitter,Low Carb Bottle 375mL,6.0,21.49,8.4,8.7,2.56
+468556,Victoria Bitter,Low Carb Bottle 375mL,24.0,62.99,33.6,34.81,1.87
+185165,Braeside Brewing Co.,Governor Pale Ale Cans 440mL,4.0,25.99,6.8,6.67,3.82
+185165,Braeside Brewing Co.,Governor Pale Ale Cans 440mL,16.0,83.99,27.2,26.68,3.09
+523246,XXXX,Bright Lager with Mango Bottles 330mL,6.0,23.99,6.0,6.25,4.0
+523246,XXXX,Bright Lager with Mango Bottles 330mL,24.0,58.99,24.0,25.01,2.46
+317132,Hahn,Super Dry Cans 375mL,1,4.49,1.4,1.36,3.21
+317132,Hahn,Super Dry Cans 375mL,30.0,65.95,42.0,40.85,1.57
+917410,Bridge Road Brewers,Beechworth Pale Ale Bottles 330mL,6.0,25.99,7.8,7.5,3.33
+917410,Bridge Road Brewers,Beechworth Pale Ale Bottles 330mL,24.0,81.99,31.2,30.01,2.63
+901251,James Boag's,Premium Light Bottles 375mL,6.0,17.95,4.2,4.09,4.27
+901251,James Boag's,Premium Light Bottles 375mL,24.0,55.95,16.8,16.34,3.33
+271392,Stone & Wood,Hinterland Hazy Pale Ale Can 375mL,4.0,20.0,6.0,6.16,3.33
+271392,Stone & Wood,Hinterland Hazy Pale Ale Can 375mL,16.0,69.99,24.0,24.63,2.92
+203313,John Boston,XPA Can 375mL,4.0,15.99,4.8,4.97,3.33
+203313,John Boston,XPA Can 375mL,24.0,65.99,28.8,29.84,2.29
+235761,Obrien Brewing,Lager Cans 375mL,6.0,23.99,8.4,7.99,2.86
+235761,Obrien Brewing,Lager Cans 375mL,24.0,72.99,33.6,31.97,2.17
+905228,Budvar,Czech Lager 330mL,6.0,26.99,7.8,7.82,3.46
+905228,Budvar,Czech Lager 330mL,24.0,79.99,31.2,31.26,2.56
+662583,Fox Hat,Red Pelt India Red Can 375ml,4.0,24.0,9.2,9.24,2.61
+662583,Fox Hat,Red Pelt India Red Can 375ml,24.0,120.99,55.2,55.42,2.19
+314034,James Squire,Low Carb Pale Ale Bottles 330mL,6.0,24.99,6.6,6.57,3.79
+314034,James Squire,Low Carb Pale Ale Bottles 330mL,24.0,57.0,26.4,26.26,2.16
+6043775,Brookvale Union,Spiced Orange Ginger Beer 4% Cans 330mL,6.0,30.99,6.0,6.25,5.17
+6043775,Brookvale Union,Spiced Orange Ginger Beer 4% Cans 330mL,24.0,95.99,24.0,25.01,4.0
+309511,The Mill Brewery,Cracking Lager Can 375mL,4.0,17.49,4.8,4.74,3.64
+309511,The Mill Brewery,Cracking Lager Can 375mL,24.0,81.99,28.8,28.42,2.85
